@@ -87,6 +87,7 @@ GEM
       debugger-ruby_core_source (~> 1.2.3)
     debugger-linecache (1.2.0)
     debugger-ruby_core_source (1.2.3)
+    diff-lcs (1.2.4)
     eco (1.0.0)
       coffee-script
       eco-source
@@ -230,6 +231,17 @@ GEM
       arel (>= 2.0.6)
       rgeo (>= 0.3.20)
     rmagick (2.13.2)
+    rspec-core (2.13.1)
+    rspec-expectations (2.13.0)
+      diff-lcs (>= 1.1.3, < 2.0)
+    rspec-mocks (2.13.1)
+    rspec-rails (2.13.1)
+      actionpack (>= 3.0)
+      activesupport (>= 3.0)
+      railties (>= 3.0)
+      rspec-core (~> 2.13.0)
+      rspec-expectations (~> 2.13.0)
+      rspec-mocks (~> 2.13.0)
     ruby-prof (0.13.0)
     sass (3.2.11)
     sass-rails (3.2.6)
@@ -339,6 +351,7 @@ DEPENDENCIES
   rails (= 3.2.11)
   resque (= 1.23.0)
   rmagick
+  rspec-rails (= 2.13.1)
   ruby-prof
   sass-rails
   simple-tooltip

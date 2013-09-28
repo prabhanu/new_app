@@ -13798,3 +13798,93 @@ ActiveModel::MassAssignmentSecurity::Error (Can't mass-assign protected attribut
   Rendered /home/dev/.gem/ruby/2.0.0/gems/actionpack-3.2.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.7ms)
   Rendered /home/dev/.gem/ruby/2.0.0/gems/actionpack-3.2.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.6ms)
   Rendered /home/dev/.gem/ruby/2.0.0/gems/actionpack-3.2.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.6ms)
+
+
+Started GET "/microposts" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Processing by MicropostsController#index as HTML
+  [1m[36m (1.7ms)[0m  [1mSELECT * FROM geometry_columns WHERE f_table_name='microposts'[0m
+  [1m[35mMicropost Load (0.1ms)[0m  SELECT "microposts".* FROM "microposts" 
+  Rendered microposts/index.html.haml within layouts/application (0.3ms)
+Completed 200 OK in 10ms (Views: 4.9ms | ActiveRecord: 3.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/microposts.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /microposts.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/people.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /people.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /scaffolds.css - 304 Not Modified (32ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/microposts.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /microposts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/people.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /people.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:48 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/microposts/new" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Processing by MicropostsController#new as HTML
+  Rendered microposts/_form.html.haml (1.9ms)
+  Rendered microposts/new.html.haml within layouts/application (2.9ms)
+Completed 200 OK in 10ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/microposts.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /microposts.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/people.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /people.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /scaffolds.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/microposts.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /microposts.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/people.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /people.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 10.1.2.51 at 2013-09-28 20:23:50 +0530
+Served asset /application.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+DEPRECATION WARNING: The InstanceMethods module inside ActiveSupport::Concern will be no longer included automatically. Please define instance methods directly in SetAcl instead. (called from <top (required)> at /home/dev/new_app/config/environment.rb:5)
+DEPRECATION WARNING: ActionDispatch::ShowExceptions.rescue_responses is deprecated. Please configure your exceptions using a railtie or in your application config instead. (called from <top (required)> at /home/dev/new_app/config/environment.rb:5)
