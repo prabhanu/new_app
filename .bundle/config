@@ -1,0 +1,4 @@
+---
+BUNDLE_BUILD__PG: --with-pg-config=/usr/pgsql-9.2/bin/pg_config
+BUNDLE_PATH: ~/.gem
+BUNDLE_DISABLE_SHARED_GEMS: '1'
