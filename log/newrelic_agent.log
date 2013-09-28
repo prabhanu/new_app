@@ -1,0 +1,153 @@
+# Logfile created on 2013-09-28 18:59:58 +0530 by logger.rb/36483
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Reading configuration from 
+[09/28/13 18:59:58 +0530 pratap (6837)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Disabling the Request Sampler.
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Environment: development
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Dispatcher: thin
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Application: development
+[09/28/13 18:59:58 +0530 pratap (6837)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Resque instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Net instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Unicorn instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 18:59:58 +0530 pratap (6837)] INFO : Finished instrumentation
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Reading configuration from 
+[09/28/13 19:02:43 +0530 pratap (6859)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Disabling the Request Sampler.
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Environment: development
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Dispatcher: thin
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Application: development
+[09/28/13 19:02:43 +0530 pratap (6859)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Installing Resque instrumentation
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Installing Net instrumentation
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:02:43 +0530 pratap (6859)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:02:44 +0530 pratap (6859)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:02:44 +0530 pratap (6859)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:02:44 +0530 pratap (6859)] INFO : Finished instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Reading configuration from 
+[09/28/13 19:03:11 +0530 pratap (6865)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Disabling the Request Sampler.
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Environment: development
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Dispatcher: thin
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Application: development
+[09/28/13 19:03:11 +0530 pratap (6865)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Resque instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Net instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:03:11 +0530 pratap (6865)] INFO : Finished instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Reading configuration from 
+[09/28/13 19:06:26 +0530 pratap (6885)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Disabling the Request Sampler.
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Environment: development
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Dispatcher: thin
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Application: development
+[09/28/13 19:06:26 +0530 pratap (6885)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Resque instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Net instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:06:26 +0530 pratap (6885)] INFO : Finished instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Reading configuration from 
+[09/28/13 19:07:47 +0530 pratap (6905)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Disabling the Request Sampler.
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Environment: development
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Dispatcher: thin
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Application: development
+[09/28/13 19:07:47 +0530 pratap (6905)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Resque instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Net instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:07:47 +0530 pratap (6905)] INFO : Finished instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Reading configuration from 
+[09/28/13 19:08:01 +0530 pratap (6910)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Disabling the Request Sampler.
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Environment: development
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Dispatcher: thin
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Application: development
+[09/28/13 19:08:01 +0530 pratap (6910)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Resque instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Net instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:08:01 +0530 pratap (6910)] INFO : Finished instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Reading configuration from 
+[09/28/13 19:46:52 +0530 pratap (7119)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Disabling the Request Sampler.
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Environment: development
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Dispatcher: thin
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Application: development
+[09/28/13 19:46:52 +0530 pratap (7119)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Resque instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Net instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:46:52 +0530 pratap (7119)] INFO : Finished instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Starting the New Relic agent in "development" environment.
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Reading configuration from 
+[09/28/13 19:47:41 +0530 pratap (7130)] ERROR : Unable to read configuration file : no implicit conversion of nil into String
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Disabling the Request Sampler.
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Environment: development
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Dispatcher: thin
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Application: development
+[09/28/13 19:47:41 +0530 pratap (7130)] WARN : No license key found in newrelic.yml config. This often means your newrelic.yml is missing a section for the running environment 'development'
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Dalli Memcache instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Resque instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Net instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Unicorn instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Detected Unicorn, please see additional documentation: https://newrelic.com/docs/troubleshooting/im-using-unicorn-and-i-dont-see-any-data
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing ActiveRecord instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Rails 3 Controller instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Rails 3.1/3.2 view instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Installing Rails3 Error instrumentation
+[09/28/13 19:47:41 +0530 pratap (7130)] INFO : Finished instrumentation
